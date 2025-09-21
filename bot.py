@@ -28,7 +28,7 @@ en_veille = {}
 combat_actif = {}
 
 GENERAL_CHANNEL_IDS = [
-    # 1408882993639985262,  # Canal bots twd
+    #bot channels go here
 ]
 
 # -------------------
@@ -315,7 +315,7 @@ async def setstat(ctx, joueur: str, champ: str, valeur: int):
 # -------------------
 en_veille = {}  # perso_name : True/False
 tasks_veille = {}  # perso_name : task asyncio
-VEILLE_CATEGORIE_ID = 1408888982451912834  # ID de la catégorie où on bloque les commandes
+VEILLE_CATEGORIE_ID = ####################  # ID de la catégorie où on bloque les commandes
 
 MAX_FOCUS = 30
 
@@ -832,4 +832,4 @@ async def attaque(ctx, arme: str):
 
 
 
-bot.run("MTQwODg3MzYzNjkzMjA5MjAwOA.GGQMQx.aIrAYWOucaOYtNBVVJo6EDuBSyVFvQ6V6oce6Y")
+bot.run("#discord bot token here")
