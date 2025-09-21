@@ -1,0 +1,33 @@
+batte:
+  nom: "Batte de baseball"
+  bonus: 1
+fusil:
+  nom: "Fusil"
+  bonus: 5
+caillou:
+  nom: "Caillou"
+  bonus: -1
+machette:
+  nom: "Machette"
+  bonus: 2
+hache:
+  nom: "Hache"
+  bonus: 3
+pied_de_biche:
+  nom: "Pied de biche"
+  bonus: 3
+pistolet:
+  nom: "Pistolet"
+  bonus: 4
+carabine:
+  nom: "Carabine de chasse"
+  bonus: 5
+fusil_assault:
+  nom: "Fusil d'assault"
+  bonus: 4
+fusil_sniper:
+  nom: "Sniper"
+  bonus: 8
+opasfuck:
+  nom: "Un suçon"
+  bonus: 20

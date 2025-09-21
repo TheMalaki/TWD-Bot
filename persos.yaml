@@ -1,0 +1,950 @@
+Rick:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 14
+  sante_max: 14
+  stats:
+    AGI: 11
+    CHA: 15
+    FOR: 13
+    PER: 14
+    SAN: 12
+    TEC: 10
+Carl:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 12
+    CHA: 9
+    FOR: 10
+    PER: 12
+    SAN: 9
+    TEC: 8
+Enid:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 12
+    CHA: 9
+    FOR: 8
+    PER: 11
+    SAN: 9
+    TEC: 9
+Tyresse:
+  discord: null
+  energie: 10
+  energie_max: 10
+  focus: 5
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 15
+  sante_max: 15
+  stats:
+    AGI: 9
+    CHA: 11
+    FOR: 16
+    PER: 10
+    SAN: 11
+    TEC: 8
+Eugene:
+  discord: null
+  energie: 7
+  energie_max: 8
+  focus: 8
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 7
+    CHA: 8
+    FOR: 7
+    PER: 10
+    SAN: 9
+    TEC: 15
+Rosita:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 14
+    CHA: 10
+    FOR: 11
+    PER: 12
+    SAN: 10
+    TEC: 10
+Hershel:
+  discord: null
+  energie: 7
+  energie_max: 8
+  focus: 8
+  humains: 0
+  moral: 9
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 7
+    CHA: 13
+    FOR: 8
+    PER: 11
+    SAN: 12
+    TEC: 13
+Alpha:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 12
+    PER: 13
+    SAN: 8
+    TEC: 9
+Maggie:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 11
+    PER: 12
+    SAN: 11
+    TEC: 10
+Jesus:
+  discord: i_gabie_i#0
+  energie: 0
+  energie_max: 10
+  focus: 29
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 143
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 15
+    CHA: 11
+    FOR: 12
+    PER: 13
+    SAN: 11
+    TEC: 9
+Lorie:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 9
+    CHA: 11
+    FOR: 8
+    PER: 10
+    SAN: 10
+    TEC: 9
+Jerry:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 9
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 14
+  sante_max: 14
+  stats:
+    AGI: 10
+    CHA: 13
+    FOR: 14
+    PER: 10
+    SAN: 12
+    TEC: 9
+Daryl:
+  discord: null
+  energie: 10
+  energie_max: 10
+  focus: 8
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 14
+  sante_max: 14
+  stats:
+    AGI: 14
+    CHA: 9
+    FOR: 13
+    PER: 15
+    SAN: 10
+    TEC: 9
+Judith:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 11
+    CHA: 11
+    FOR: 8
+    PER: 11
+    SAN: 9
+    TEC: 8
+Sacha:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 12
+    CHA: 11
+    FOR: 12
+    PER: 12
+    SAN: 10
+    TEC: 9
+Beth:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 9
+  sante_max: 9
+  stats:
+    AGI: 10
+    CHA: 12
+    FOR: 7
+    PER: 10
+    SAN: 9
+    TEC: 8
+Dale:
+  discord: null
+  energie: 7
+  energie_max: 8
+  focus: 8
+  humains: 0
+  moral: 9
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 8
+    CHA: 12
+    FOR: 8
+    PER: 12
+    SAN: 11
+    TEC: 9
+Abraham:
+  discord: null
+  energie: 10
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 15
+  sante_max: 15
+  stats:
+    AGI: 12
+    CHA: 11
+    FOR: 16
+    PER: 12
+    SAN: 9
+    TEC: 10
+Aaron:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 11
+    CHA: 13
+    FOR: 10
+    PER: 11
+    SAN: 11
+    TEC: 9
+Shane:
+  discord: null
+  energie: 10
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 14
+  sante_max: 14
+  stats:
+    AGI: 12
+    CHA: 12
+    FOR: 14
+    PER: 12
+    SAN: 9
+    TEC: 9
+Gabriel:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 8
+    CHA: 11
+    FOR: 8
+    PER: 10
+    SAN: 9
+    TEC: 8
+Andrea:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 12
+    CHA: 10
+    FOR: 11
+    PER: 13
+    SAN: 9
+    TEC: 9
+Tara:
+  discord: ameliep92#0
+  energie: 0
+  energie_max: 10
+  focus: 0
+  humains: 0
+  moral: 10
+  moral_max: 10
+  rations: 535
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 10
+    PER: 11
+    SAN: 10
+    TEC: 10
+Michone:
+  discord: myrim_#0
+  energie: 10
+  energie_max: 10
+  focus: 8
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 15
+    CHA: 10
+    FOR: 13
+    PER: 12
+    SAN: 11
+    TEC: 10
+Beta:
+  discord: black4ac3#0
+  energie: 1
+  energie_max: 10
+  focus: 30
+  humains: 0
+  moral: 9
+  moral_max: 9
+  rations: 2530
+  rodeurs: 0
+  sante: 15
+  sante_max: 15
+  stats:
+    AGI: 12
+    CHA: 9
+    FOR: 16
+    PER: 11
+    SAN: 8
+    TEC: 8
+Carol:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 8
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 11
+    CHA: 11
+    FOR: 10
+    PER: 12
+    SAN: 12
+    TEC: 10
+Morgan:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 8
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 13
+    CHA: 10
+    FOR: 12
+    PER: 13
+    SAN: 9
+    TEC: 9
+Glenn:
+  discord: thapom#0
+  energie: 0
+  energie_max: 10
+  focus: 30
+  humains: 0
+  moral: 10
+  moral_max: 10
+  rations: 2367
+  rodeurs: 0
+  sante: 7
+  sante_max: 12
+  stats:
+    AGI: 14
+    CHA: 12
+    FOR: 10
+    PER: 13
+    SAN: 10
+    TEC: 9
+Negan:
+  discord: null
+  energie: 10
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 14
+  sante_max: 14
+  stats:
+    AGI: 12
+    CHA: 15
+    FOR: 14
+    PER: 12
+    SAN: 9
+    TEC: 10
+Connie:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 12
+    CHA: 11
+    FOR: 9
+    PER: 13
+    SAN: 10
+    TEC: 9
+Kelly:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 12
+    CHA: 10
+    FOR: 10
+    PER: 12
+    SAN: 9
+    TEC: 9
+Henry:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 11
+    CHA: 10
+    FOR: 11
+    PER: 11
+    SAN: 9
+    TEC: 8
+King_Ezekiel:
+  discord: mr_snake21#0
+  energie: 0
+  energie_max: 10
+  focus: 30
+  humains: 0
+  moral: 10
+  moral_max: 10
+  rations: 769
+  rodeurs: 0
+  sante: 9
+  sante_max: 12
+  stats:
+    AGI: 10
+    CHA: 15
+    FOR: 11
+    PER: 12
+    SAN: 11
+    TEC: 9
+T-Dog:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 10
+    CHA: 11
+    FOR: 13
+    PER: 10
+    SAN: 10
+    TEC: 8
+Bob:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 9
+    CHA: 10
+    FOR: 10
+    PER: 11
+    SAN: 8
+    TEC: 12
+Lydia:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 11
+    CHA: 9
+    FOR: 9
+    PER: 11
+    SAN: 8
+    TEC: 8
+Merle:
+  discord: mimz_19#0
+  energie: 6
+  energie_max: 10
+  focus: 28
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 50
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 11
+    CHA: 9
+    FOR: 14
+    PER: 11
+    SAN: 8
+    TEC: 9
+Gouverneur:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 13
+  sante_max: 13
+  stats:
+    AGI: 11
+    CHA: 14
+    FOR: 12
+    PER: 12
+    SAN: 8
+    TEC: 9
+Simon:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 6
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 12
+    PER: 11
+    SAN: 8
+    TEC: 9
+Gregory:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 5
+  moral_max: 8
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 8
+    CHA: 11
+    FOR: 8
+    PER: 9
+    SAN: 7
+    TEC: 8
+Princesse:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 12
+    CHA: 13
+    FOR: 10
+    PER: 11
+    SAN: 9
+    TEC: 9
+Sherry:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 10
+    CHA: 11
+    FOR: 9
+    PER: 10
+    SAN: 9
+    TEC: 9
+Dwight:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 12
+  sante_max: 12
+  stats:
+    AGI: 12
+    CHA: 10
+    FOR: 11
+    PER: 12
+    SAN: 9
+    TEC: 9
+Yumiko:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 8
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 10
+    PER: 12
+    SAN: 11
+    TEC: 10
+Jadis:
+  discord: null
+  energie: 9
+  energie_max: 10
+  focus: 7
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 11
+    CHA: 12
+    FOR: 10
+    PER: 12
+    SAN: 9
+    TEC: 9
+Moraless:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 6
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 10
+    CHA: 10
+    FOR: 9
+    PER: 10
+    SAN: 9
+    TEC: 8
+Sophia:
+  discord: null
+  energie: 7
+  energie_max: 8
+  focus: 5
+  humains: 0
+  moral: 7
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 8
+  sante_max: 8
+  stats:
+    AGI: 9
+    CHA: 10
+    FOR: 7
+    PER: 9
+    SAN: 8
+    TEC: 7
+Éléanor:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 7
+  humains: 0
+  moral: 8
+  moral_max: 10
+  rations: 0
+  rodeurs: 0
+  sante: 10
+  sante_max: 10
+  stats:
+    AGI: 9
+    CHA: 11
+    FOR: 8
+    PER: 10
+    SAN: 10
+    TEC: 12
+Otis:
+  discord: null
+  energie: 8
+  energie_max: 9
+  focus: 5
+  humains: 0
+  moral: 6
+  moral_max: 9
+  rations: 0
+  rodeurs: 0
+  sante: 11
+  sante_max: 11
+  stats:
+    AGI: 8
+    CHA: 9
+    FOR: 11
+    PER: 9
+    SAN: 8
+    TEC: 8
+Éric:
+  discord: themalaki#0
+  energie: 5
+  energie_max: 9
+  focus: 17
+  humains: 0
+  moral: 10
+  moral_max: 10
+  rations: 90
+  rodeurs: 0
+  sante: 9
+  sante_max: 10
+  stats:
+    AGI: 9
+    CHA: 11
+    FOR: 8
+    PER: 10
+    SAN: 9
+    TEC: 8

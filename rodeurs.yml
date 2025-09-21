@@ -1,0 +1,23 @@
+zombie1:
+  nom: "Rôdeur basique"
+  sante: 10
+  AGI: 8
+  degats: 2
+
+zombie2:
+  nom: "Rôdeur rapide"
+  sante: 8
+  AGI: 14
+  degats: 3
+
+zombie3:
+  nom: "Rôdeur mutant"
+  sante: 15
+  AGI: 10
+  degats: 5
+  
+horde50:
+  nom: "Horde de rôdeurs"
+  sante: 50
+  AGI: 10
+  degats: 5
